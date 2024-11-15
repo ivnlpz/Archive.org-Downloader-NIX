@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54740007/108192715-e5958c80-7114-11eb-8240-e884895bb45f.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Archive.org-Downloader</h3>
+  <h3 align="center">Archive.org-Downloader w/NIX</h3>
 
   <p align="center">
     Python3 script to download archive.org books in PDF format
@@ -72,7 +72,7 @@ python3 archive-org-downloader.py -e myemail@tempmail.com -p Passw0rd --file boo
 ```
 
 ## Donation
-If you want to support my work, you can send 2 or 3 Bitcoins 🙃 to this address: 
+If you want to support **MiniGlome's** work, you can send 2 or 3 Bitcoins 🙃 to this address: 
 ```
 bc1q4nq8tjuezssy74d5amnrrq6ljvu7hd3l880m7l
 ```
